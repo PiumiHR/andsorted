@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Project & Design System"
+  short_description: "Set up Flutter foundations and design tokens"
+  default_prompt: "Use $setup-project-design-system to establish the Flutter app shell and reusable design system before business features."

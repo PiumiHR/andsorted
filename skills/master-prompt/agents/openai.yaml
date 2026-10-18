@@ -1,0 +1,4 @@
+interface:
+  display_name: "Master Prompt"
+  short_description: "Build polished Flutter reminder apps with clean architecture"
+  default_prompt: "Use $master-prompt to design and implement this Flutter reminder app incrementally."
