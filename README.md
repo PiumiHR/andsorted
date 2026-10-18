@@ -1,4 +1,4 @@
-# sorted
+# &sorted
 
 A new Flutter project.
 
